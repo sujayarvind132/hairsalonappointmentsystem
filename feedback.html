@@ -1,0 +1,43 @@
+
+    <center>
+      <div style="background-color: gray ;">
+    <div class="container" style="border:10px solid rgb(15, 14, 14); border-radius: 40px;">
+      <div class="container" style="border: 5px solid red; border-radius: 25px;">
+    <h1><b>Hair Salon Appointment System</b></h1>
+    <img src="./img/dazfeedback.png" alt="">
+    
+        <form action="feedbackconnect.php" method="post" autocomplete="off" >
+        
+      
+          <label for="fname"><h2>First Name :</h2></label>
+          <input  type="text" id="fname" name="firstname" placeholder="Your name.."><hr>
+      
+          <label for="lname"><h2>Last Name :</h2></label>
+          <input type="text" id="lname" name="lastname" placeholder="Your last name.."><hr>
+      
+          <label for="star"><h2>Select Star Accordingly :</h2></label><hr>
+          <i>Excellent<input type="radio" id = "feedstar" name = "feedstar" value="5" required></i>
+          <i>Good<input type="radio" id = "feedstar" name = "feedstar" value="4" required></i>
+          <i>Average<input type="radio" id = "feedstar" name = "feedstar" value="3" required></i>
+          <i>Below Average<input type="radio" id = "feedstar" name = "feedstar" value="2" required></i>
+          <i>Poor<input type="radio" id = "feedstar" name = "feedstar" value="1" required></i>
+          
+
+      
+          <label for="subject"><h2>Feedback :</h2></label><hr>
+          <textarea id="subject" name="subject" placeholder="Write what need to be improved here !" style="height:50px"></textarea><hr>
+      
+          <button type="submit" onclick="gotoopenlink()" >Submit</button>
+      
+        </form>
+      </div>
+      </div>
+    </div>
+    </center>
+    <script>
+      function gotoopenlink(){
+        var o = "feedbacksub.html";
+        window.open(o).focus();
+
+      }
+    </script>

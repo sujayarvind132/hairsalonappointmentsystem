@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clab Project</title>
+    <link rel="stylesheet" href="./css/register.css">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    
+</head>
+<body>
+    
+</body>
+</html>
+<div style="background-color: rgb(152, 25, 25);">
+<center>
+  <form action="form_action.php" method="post" name="" autocomplete="off">
+    <div class="container">
+      <img src="./img/Barber-shop-logo-on-transparent-background-PNG.jpeg" >
+      <h1>Hair Salon</h1>
+      <p><b>Enter the basic detail to book appointment</b></p>
+      <hr>
+
+      <label for="Name"><b>Name</b></label>
+      <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
+
+      <label for="WhatsApp Number"><b>WhatsApp Number</b></label>
+      <input type="text" placeholder="WhatsApp Number" name="WhatsApp_Number" id="WhatsApp_Number" required><hr>
+
+      <label for="Date"><b>Date</b></label>
+      <input type="date" placeholder="Select Date" name="Date" id = "Select_Date"><hr>
+  
+      <label for="Time"><b>Select Time   </b></label>
+      <input type="time" placeholder="Select Time" name="Time" id ="Select_Time1" required><hr>
+
+      <label for="Time"><b>Alternate Time</b></label>
+      <input type="time" placeholder="Select Time" name="Alternate_Time" id ="Select_Time2" required><hr>
+
+      <label for="Hair Artist"><b>Hair Artist   </b></label>
+      <select name="Hair_Artist" id="Hair_Artist" >
+          <option value="Rajesh">Rajesh</option>
+          <option value="Atul">Atul</option>
+          <option value="Adinath">Adinath</option>
+          <option value="Amit">Amit</option>
+      </select><hr>
+
+      <label for="Service"><b>Service Offered : </b></label>
+      <input type="text" placeholder="eg.Haircut,Shaving,Facial,others" name="Service" id = "Service"><hr>
+      <label for="Payment"><b>Payment : </b></label>
+      <select name="Payment" id="Payment">
+        <option value="Done"><b>PrePaid Payment(online Mode)</b></option>
+        <option value="Not Done" aria-setsize="15"><b>PostPaid Payment(offline Mode)</b></option>
+      </select>
+     
+      <button type="submit" onclick="gotowhatsapp()" class="registerbtn" href=""><h2>Book Appointment</h2></button></h3><hr>
+      <center><a href="./admin.html" target="_blank">Admin Access</a></center>
+      
+      
+      
+    </div>
+  <script>
+    function gotowhatsapp() {
+        var n = "Hair Salon Appointment System  ";
+        var m = "System Generated Data Feed by User";
+      var Name = document.getElementById("Name").value;
+      var WhatsApp_Number = document.getElementById("WhatsApp_Number").value;
+      var Select_Date = document.getElementById("Select_Date").value;
+      var Select_Time1 = document.getElementById("Select_Time1").value;
+      var Select_Time2 = document.getElementById("Select_Time2").value;
+      var Hair_Artist = document.getElementById("Hair_Artist").value;
+      var Service = document.getElementById("Service").value;
+      var Payment = document.getElementById("Payment").value;
+  
+      var url = "https://wa.me/919579307952?text=" 
+      + n + "%0a"
+      + m + "%0a"
+      + "Name: " + Name + "%0a"
+      + "WhatsApp Number: " + WhatsApp_Number + "%0a"
+      + "Date of Appointment : " + Select_Date  + "%0a"
+      + "Time of Appointment : " + Select_Time1 + "%0a"
+      + "Alternate Time of Appointment : " + Select_Time2 + "%0a"
+      + "Selected Hair Artist : " + Hair_Artist + "%0a"
+      + "Service : " + Service + "%0a"
+      + "Payment Method : " + Payment +"%0a"; 
+  
+      window.open(url, '_blank').focus();
+  }
+</script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</body>
+</html>
+   
+  </form>
+</center>
+</div>

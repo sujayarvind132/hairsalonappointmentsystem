@@ -1,0 +1,881 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="pingback" href="https://larryferlazzo.edublogs.org/xmlrpc.php" />
+<!--[if lt IE 9]>
+	<script src="https://larryferlazzo.edublogs.org/wp-content/themes/Extra/scripts/ext/html5.js" type="text/javascript"></script>
+	<![endif]-->
+<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+<title>Short TED Talk Video: &#8220;The secret to giving great feedback&#8221; | Larry Ferlazzo&#039;s Websites of the Day...</title>
+<meta name='robots' content='max-image-preview:large' />
+<meta name="google-site-verification" content="JzofqPKgGSeMm7-CuJcG48epzffUXsBXf2tPT-jiwuQ" /><link rel='dns-prefetch' href='//larryferlazzo.edublogs.org' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//user.files.edublogs.org.s3.amazonaws.com' />
+<link rel="alternate" type="application/rss+xml" title="Larry Ferlazzo&#039;s Websites of the Day... &raquo; Feed" href="https://larryferlazzo.edublogs.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Larry Ferlazzo&#039;s Websites of the Day... &raquo; Comments Feed" href="https://larryferlazzo.edublogs.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Larry Ferlazzo&#039;s Websites of the Day... &raquo; Short TED Talk Video: &#8220;The secret to giving great feedback&#8221; Comments Feed" href="https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/larryferlazzo.edublogs.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.4"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<meta content="Extra v.4.9.6" name="generator" /><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='formidable-css' href='https://larryferlazzo.edublogs.org?load_frmpro_css=true&#038;ver=97457' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://larryferlazzo.edublogs.org/wp-includes/css/dashicons.min.css?ver=5.8.4' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css' href='https://larryferlazzo.edublogs.org/wp-includes/css/admin-bar.min.css?ver=5.8.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://larryferlazzo.edublogs.org/wp-includes/css/dist/block-library/style.min.css?ver=5.8.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wmd-eduicons-css' href='https://larryferlazzo.edublogs.org/wp-content/plugins/edublogs-icons/edublogs-icons/style.css?ver=5' type='text/css' media='all' />
+<link rel='stylesheet' id='lean-captcha-css-css' href='https://larryferlazzo.edublogs.org/wp-content/plugins/lean-captcha/css/lean-captcha.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='extra-style-css' href='https://larryferlazzo.edublogs.org/wp-content/themes/Extra/style.dev.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='et-builder-googlefonts-cached-css' href='https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic|Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic&#038;subset=cyrillic,greek,vietnamese,latin,greek-ext,latin-ext,cyrillic-ext&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css' href='https://larryferlazzo.edublogs.org/wp-content/themes/Extra/includes/builder/styles/magnific_popup.css?ver=4.9.6' type='text/css' media='all' />
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://larryferlazzo.edublogs.org/wp-json/" /><link rel="alternate" type="application/json" href="https://larryferlazzo.edublogs.org/wp-json/wp/v2/posts/105650" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://larryferlazzo.edublogs.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://larryferlazzo.edublogs.org/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="Edublogs 5.8.4 - https://edublogs.org" />
+<link rel="canonical" href="https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/" />
+<link rel='shortlink' href='https://larryferlazzo.edublogs.org/?p=105650' />
+<link rel="alternate" type="application/json+oembed" href="https://larryferlazzo.edublogs.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flarryferlazzo.edublogs.org%2F2020%2F03%2F03%2Fshort-ted-talk-video-the-secret-to-giving-great-feedback%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://larryferlazzo.edublogs.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flarryferlazzo.edublogs.org%2F2020%2F03%2F03%2Fshort-ted-talk-video-the-secret-to-giving-great-feedback%2F&#038;format=xml" />
+<style>#wp-admin-bar-abm-login,#wp-admin-bar-ewp34_login,#wp-admin-bar-wdcab_root{display:block!important}@media screen and (max-width:782px){#wp-admin-bar-wdcab_root{padding-right:10px!important}#wp-admin-bar-wdcab_root img{margin-top:10px}#wpadminbar{position:absolute}#wp-admin-bar-ewp34_login{padding:0 8px}}body .wp-video-shortcode video,body video.wp-video-shortcode{margin:0;padding:0;background:0 0;border:none;box-shadow:none;min-width:0;height:auto;min-height:0}#wpadminbar #wp-admin-bar-top-secondary li#wp-admin-bar-pro-site a{padding-top:3px!important;height:29px!important;border-right:1px solid #333!important}#wpadminbar #wp-admin-bar-top-secondary li#wp-admin-bar-pro-site a span{color:#fff;background-image:none!important;vertical-align:top;padding:0 10px 1px!important;text-decoration:none;line-height:23px!important;height:25px!important;margin:0;cursor:pointer;border-width:1px;border-style:solid;-webkit-border-radius:3px;-webkit-appearance:none;border-radius:3px;white-space:nowrap;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background:#F0991B;-webkit-box-shadow:inset 0 1px 0 rgba(230,180,120,.5),0 1px 0 rgba(0,0,0,.15);box-shadow:inset 0 1px 0 rgba(230,180,120,.5),0 1px 0 rgba(0,0,0,.15);border-color:#af6701!important}#wpadminbar #wp-admin-bar-top-secondary li#wp-admin-bar-pro-site a span:before{content:"\f132";position:relative;float:left;font:400 20px/1 dashicons;speak:none;padding:4px 0;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background-image:none!important;margin-right:6px}#wpadminbar #wp-admin-bar-top-secondary li#wp-admin-bar-pro-site a:hover span{background:#e28914;-webkit-box-shadow:inset 0 1px 0 rgba(230,180,120,.5),0 1px 0 rgba(0,0,0,.15);box-shadow:inset 0 1px 0 rgba(200,150,100,.5),0 1px 0 rgba(0,0,0,.15)}#bbpress-forums li:before{content:""}.screen-reader-text:not(button){clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}</style><script type="text/javascript">document.documentElement.className += " js";</script>
+<script type="text/javascript">
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = 'f2e71cf6a1';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://larryferlazzo.edublogs.org/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        </script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1" /><link rel="preload" href="https://larryferlazzo.edublogs.org/wp-content/themes/Extra/core/admin/fonts/modules.ttf" as="font" crossorigin="anonymous">
+
+<script type="text/javascript">
+	( function( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function() {
+			( i[ r ].q = i[ r ].q || [] ).push( arguments )
+		}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ),
+			m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	} )( window, document, 'script', '//www.google-analytics.com/analytics.js', 'gaplusu' );
+
+	function beehive_ga_track() {
+		gaplusu( 'create', 'UA-1215061-30', 'auto' ); // Create network tracking.
+		gaplusu( 'set', 'anonymizeIp', true ); // Anonymize IP.
+		gaplusu( 'require', 'displayfeatures' ); // Display advertising.
+		gaplusu( 'send', 'pageview' ); // Send pageview.
+		gaplusu( 'create', 'UA-1814915-1', 'auto', { 'name': 'single' } ); // Create single site tracking.
+		gaplusu( 'single.set', 'anonymizeIp', true ); // Anonymize IP.
+		gaplusu( 'single.send', 'pageview' ); // Send pageview.
+	}
+
+	beehive_ga_track(); // Load tracking.
+</script>
+
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;" />
+<meta property="og:url" content="https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/" />
+<meta property="og:description" content="&nbsp; This new TED Talk video has some useful points to consider when giving feedback. I&#8217;m adding it to The Best Resources For Learning How To Best Give Feedback To Students." />
+<meta property="article:published_time" content="2020-03-03T12:24:59+00:00" />
+<meta property="article:modified_time" content="2020-03-03T12:24:59+00:00" />
+<meta property="og:site_name" content="Larry Ferlazzo&#039;s Websites of the Day..." />
+<meta property="og:image" content="https://larryferlazzo.edublogs.org/files/2020/03/feedback_1583238216.png" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="853" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@Larryferlazzo" />
+<meta name="twitter:text:title" content="Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;" />
+<meta name="twitter:image" content="https://larryferlazzo.edublogs.org/files/2020/03/feedback_1583238216.png?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<style id="et-extra-customizer-global-cached-inline-styles">.widget_et_recent_tweets .widget_list a,.widget_et_recent_tweets .et-extra-icon,.widget_et_recent_tweets .widget-footer .et-extra-social-icon,.widget_et_recent_tweets .widget-footer .et-extra-social-icon::before,.project-details .project-details-title,.et_filterable_portfolio .filterable_portfolio_filter a.current,.et_extra_layout .et_pb_extra_column_main .et_pb_column .module-head h1,.et_pb_extra_column .module-head h1,#portfolio_filter a.current,.woocommerce div.product div.summary .product_meta a,.woocommerce-page div.product div.summary .product_meta a,.et_pb_widget.woocommerce .product_list_widget li .amount,.et_pb_widget li a:hover,.et_pb_widget.woocommerce .product_list_widget li a:hover,.et_pb_widget.widget_et_recent_videos .widget_list .title:hover,.et_pb_widget.widget_et_recent_videos .widget_list .title.active,.woocommerce .woocommerce-info:before{color:#}.single .score-bar,.widget_et_recent_reviews .review-breakdowns .score-bar,.et_pb_extra_module .posts-list article .post-thumbnail,.et_extra_other_module .posts-list article .post-thumbnail,.et_pb_widget .widget_list_portrait,.et_pb_widget .widget_list_thumbnail,.quote-format,.link-format,.audio-format .audio-wrapper,.paginated .pagination li.active,.score-bar,.review-summary-score-box,.post-footer .rating-stars #rating-stars img.star-on,.post-footer .rating-stars #rated-stars img.star-on,.author-box-module .author-box-avatar,.timeline-menu li.active a:before,.woocommerce div.product form.cart .button,.woocommerce div.product form.cart .button.disabled,.woocommerce div.product form.cart .button.disabled:hover,.woocommerce-page div.product form.cart .button,.woocommerce-page div.product form.cart .button.disabled,.woocommerce-page div.product form.cart .button.disabled:hover,.woocommerce div.product form.cart .read-more-button,.woocommerce-page div.product form.cart .read-more-button,.woocommerce div.product form.cart .post-nav .nav-links .button,.woocommerce-page div.product form.cart .post-nav .nav-links .button,.woocommerce .woocommerce-message,.woocommerce-page .woocommerce-message{background-color:#}#et-menu>li>ul,#et-menu li>ul,#et-menu>li>ul>li>ul,.et-top-search-primary-menu-item .et-top-search,.et_pb_module,.module,.page article,.authors-page .page,#timeline-sticky-header,.et_extra_other_module,.woocommerce .woocommerce-info{border-color:#}h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{font-size:40px}body{font-size:17px}body,p{line-height:1.5em}h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{font-family:'Open Sans',Helvetica,Arial,Lucida,sans-serif}body{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif}a,a:visited,.post-content a,.et_pb_pagebuilder_layout .et_pb_blurb_container p a,.et_pb_pagebuilder_layout .et_pb_code a,.et_pb_pagebuilder_layout .et_pb_promo_description a,.et_pb_pagebuilder_layout .et_pb_newsletter_description a,.et_pb_pagebuilder_layout .et_pb_team_member_description>a,.et_pb_pagebuilder_layout .et_pb_pricing li a,.et_pb_pagebuilder_layout .et_pb_slide_content a,.et_pb_pagebuilder_layout .et_pb_tab a,.et_pb_pagebuilder_layout .et_pb_text a,.et_pb_pagebuilder_layout .et_pb_toggle_content a,.et_pb_pagebuilder_layout .et_pb_fullwidth_code a{color:#247ba0}h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{color:#50514f}#et-menu>li a,#et-menu>li.menu-item-has-children>a:after,#et-menu>li.mega-menu-featured>a:after,#et-extra-mobile-menu>li.mega-menu-featured>a:after{color:#ffffff}#main-header{background-color:#1978a0}#footer h4,#footer .et_pb_widget h4.widgettitle{font-size:16px}@media only screen and (min-width:768px){#main-header .logo{height:87.2px;margin:10.9px 0}.header.left-right #et-navigation>ul>li>a{padding-bottom:46.5px}}@media only screen and (min-width:768px){.et-fixed-header #main-header .logo{height:64px;margin:8px 0}.et-fixed-header .header.left-right #et-navigation>ul>li>a{padding-bottom:32px}}.related-posts .title a{font-size:18px}@media only screen and (max-width:1024px){#top-header{display:block!important;padding:50px 0}}.et_pb_post_extra.el_dbe_block_extended{border:none}div.force-opacity>div>div>div>article{opacity:1!important}.books-overlay img{opacity:1;-webkit-transition:.3s ease-in-out;transition:.3s ease-in-out}.books-overlay:hover img{background:rgba(0,0,0,0.3);opacity:0.3}.et_pb_slides .et_pb_slider_container_inner{vertical-align:top!important}.et_pb_slide_description,.et_pb_slider_fullwidth_off .et_pb_slide_description{padding:0% 0%;width:auto;margin:auto}.module-head,.tabbed-post-module .tabs{margin-bottom:15px}.et_pb_widget .widgettitle{background:#64AAC7}@media only screen and (min-width:1024px){.et_pb_column_1_3 .posts-blog-feed-module.masonry .paginated_page[data-columns="3"] .column,.et_pb_column_1_4 .posts-blog-feed-module.masonry .paginated_page[data-columns="3"] .column{min-height:506px}}#footer .et_pb_widget:first-of-type{padding-top:60px;padding-left:40px;padding-right:20px}#footer-info{display:none}@media (min-width:981px){.et_pb_button{min-width:220px}}@media (max-width:550px){.post-header h1,.comment-reply-title span{font-size:22px}}</style></head>
+<body class="post-template-default single single-post postid-105650 single-format-standard admin-bar no-customize-support et_extra et_fixed_nav et_pb_gutters3 et_primary_nav_dropdown_animation_Default et_secondary_nav_dropdown_animation_Default with_sidebar with_sidebar_right et_includes_sidebar et-db">
+<div id="wpadminbar" class="nojq nojs">
+<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-ewp34_login'><a class='ab-item' href='https://larryferlazzo.edublogs.org/wp-login.php'>Log in</a></li><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://edublogs.org/wp-admin/user/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='https://edublogs.org/about/'>About Edublogs</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://edublogs.org/'>Edublogs.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://help.edublogs.org/'>Documentation</a></li><li id='wp-admin-bar-eb-contact'><a class='ab-item' href='https://edublogs.org/contact/'>Contact</a></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://larryferlazzo.edublogs.org/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search" /></form></div></li></ul> </div>
+</div>
+<div id="page-container" class="page-container">
+
+<header class="header left-right">
+
+<div id="top-header" style="">
+<div class="container">
+
+<div id="et-secondary-nav" class="et-trending">
+
+<div id="et-trending">
+
+<a id="et-trending-button" href="#" title="">
+<span></span>
+<span></span>
+<span></span>
+</a>
+
+<h4 id="et-trending-label">
+TRENDING: </h4>
+
+<div id='et-trending-container'>
+<div id="et-trending-post-26058" class="et-trending-post et-trending-latest">
+<a href="https://larryferlazzo.edublogs.org/2012/01/24/the-best-critiques-of-ruby-payne/">The Best Critiques Of Ruby Payne</a>
+</div>
+<div id="et-trending-post-11408" class="et-trending-post">
+<a href="https://larryferlazzo.edublogs.org/2010/06/27/the-best-ways-to-use-photos-in-lessons/">The Best Ways To Use Photos In Lessons</a>
+</div>
+<div id="et-trending-post-87901" class="et-trending-post">
+<a href="https://larryferlazzo.edublogs.org/2018/06/21/after-spending-575-million-on-teacher-evaluation-gates-foundation-says-oops/">After Spending $575 Million On Teacher Evaluation, Gate...</a>
+</div>
+</div>
+</div>
+</div>
+
+<div id="et-info">
+
+<ul class="et-extra-social-icons" style="">
+<li class="et-extra-social-icon facebook">
+<a href="https://www.facebook.com/LarryFerlazzoEducator/" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-facebook"></a>
+</li>
+<li class="et-extra-social-icon twitter">
+<a href="https://twitter.com/Larryferlazzo" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-twitter"></a>
+</li>
+<li class="et-extra-social-icon instagram">
+<a href="https://www.instagram.com/mrferlazzo/" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-instagram"></a>
+</li>
+<li class="et-extra-social-icon youtube">
+<a href="https://www.youtube.com/channel/UCgUSf0hD2BQx2pzd-4EGZHQ" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-youtube"></a>
+</li>
+</ul>
+
+<div class="et-top-search" style="">
+<form role="search" class="et-search-form" method="get" action="https://larryferlazzo.edublogs.org/">
+<input type="search" class="et-search-field" placeholder="Search" value="" name="s" title="Search for:" />
+<button class="et-search-submit"></button>
+</form> </div>
+
+</div>
+</div>
+</div>
+
+<div id="main-header-wrapper">
+<div id="main-header" data-fixed-height="80">
+<div class="container">
+
+
+<a class="logo" href="https://larryferlazzo.edublogs.org/" data-fixed-height="80">
+<img src="https://larryferlazzo.edublogs.org/files/2018/08/logo-21jj2a1-ptbwdm-2lpys8p.png" width="463" height="142" alt="Larry Ferlazzo&#039;s Websites of the Day..." id="logo" />
+</a>
+
+<div id="et-navigation" class="">
+<ul id="et-menu" class="nav"><li id="menu-item-89476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-89476"><a href="#">About</a>
+<ul class="sub-menu">
+<li id="menu-item-89477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89477"><a href="https://larryferlazzo.edublogs.org/about/">About Me</a></li>
+<li id="menu-item-89479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89479"><a href="https://larryferlazzo.edublogs.org/about/articles-ive-written/">Articles I&#8217;ve Written</a></li>
+<li id="menu-item-89478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89478"><a href="https://larryferlazzo.edublogs.org/about/awards-ive-recieved/">Awards I&#8217;ve Received</a></li>
+<li id="menu-item-89485" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89485"><a href="https://larryferlazzo.edublogs.org/about/how-to-subscribe-to-this-blog/">Subscribe To My Blog</a></li>
+<li id="menu-item-89484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89484"><a href="https://larryferlazzo.edublogs.org/about/subscribe-to-a-monthly-newsletter/">Subscribe to My Free Monthly Newsletter</a></li>
+<li id="menu-item-89482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89482"><a href="https://larryferlazzo.edublogs.org/about/websites-of-the-year/">Websites Of The Year</a></li>
+<li id="menu-item-89483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89483"><a href="https://larryferlazzo.edublogs.org/about/websites-of-the-month/">Websites of the Month</a></li>
+</ul>
+</li>
+<li id="menu-item-89486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89486"><a href="https://larryferlazzo.edublogs.org/contact-me/">Contact Me</a></li>
+<li id="menu-item-89548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89548"><a href="http://larryferlazzo.edublogs.org/2012/12/30/my-best-posts-of-the-year-2012/">My Favorite Posts</a></li>
+<li id="menu-item-89481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89481"><a href="https://larryferlazzo.edublogs.org/about/my-best-of-series/">My Best of series</a></li>
+<li id="menu-item-89782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89782"><a href="https://larryferlazzo.edublogs.org/best-of-week/">My Best of Week</a></li>
+</ul> <div id="et-mobile-navigation">
+<span class="show-menu">
+<div class="show-menu-button">
+<span></span>
+<span></span>
+<span></span>
+</div>
+<p>Select Page</p>
+</span>
+<nav>
+</nav>
+</div>  </div>
+</div>
+</div>
+</div>
+</header>
+<div id="main-content">
+<div class="container">
+<div id="content-area" class="clearfix">
+<div class="et_pb_extra_column_main">
+<article id="post-105650" class="module single-post-module post-105650 post type-post status-publish format-standard hentry category-teacher-resources category-video et-doesnt-have-format-content et_post_format-et-post-format-standard">
+<div class="post-header">
+<h1 class="entry-title">Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;</h1>
+<div class="post-meta vcard">
+<p>Posted by <a href="https://larryferlazzo.edublogs.org/author/mrferlazzo/" class="url fn" title="Posts by Larry Ferlazzo" rel="author">Larry Ferlazzo</a> | <span class="updated">Mar 3, 2020</span> | <a href="https://larryferlazzo.edublogs.org/category/teacher-resources/" rel="tag">teacher resources</a>, <a href="https://larryferlazzo.edublogs.org/category/video/" rel="tag">video</a> | <a class="comments-link" href="https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/#comments">0 <span title="comment count" class="comment-bubble post-meta-icon"></span></a> | <span class="rating-stars" title="Rating: 0.00"><span class="post-meta-icon rating-star rating-star-empty rating-star-1"></span>
+<span class="post-meta-icon rating-star rating-star-empty rating-star-2"></span>
+<span class="post-meta-icon rating-star rating-star-empty rating-star-3"></span>
+<span class="post-meta-icon rating-star rating-star-empty rating-star-4"></span>
+<span class="post-meta-icon rating-star rating-star-empty rating-star-5"></span>
+</span></p>
+</div>
+</div>
+<div class="post-wrap">
+<div class="post-content entry-content">
+<div id="attachment_105651" style="width: 1290px" class="wp-caption aligncenter"><a href="https://larryferlazzo.edublogs.org/files/2020/03/feedback_1583238216.png"><img aria-describedby="caption-attachment-105651" loading="lazy" class="size-full wp-image-105651" src="https://larryferlazzo.edublogs.org/files/2020/03/feedback_1583238216.png" alt="" width="1280" height="853" srcset="https://larryferlazzo.edublogs.org/files/2020/03/feedback_1583238216.png 1280w, https://larryferlazzo.edublogs.org/files/2020/03/feedback_1583238216-300x200.png 300w, https://larryferlazzo.edublogs.org/files/2020/03/feedback_1583238216-1024x682.png 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></a><p id="caption-attachment-105651" class="wp-caption-text"><a href="https://pixabay.com/users/geralt/">geralt</a> / Pixabay</p></div>
+<p>&nbsp;</p>
+<p>This new TED Talk video has some useful points to consider when giving feedback.</p>
+<p>I&#8217;m adding it to <a href="http://larryferlazzo.edublogs.org/2010/11/10/the-best-resources-for-learning-how-to-best-give-feedback-to-students/">The Best Resources For Learning How To Best Give Feedback To Students</a>.</p>
+<p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/wtl5UrrgU8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</div>
+</div>
+<div class="post-footer">
+<div class="social-icons ed-social-share-icons">
+<p class="share-title">Share:</p>
+<a href="http://www.facebook.com/sharer.php?u=https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/&#038;t=Short%20TED%20Talk%20Video%3A%20%E2%80%9CThe%20secret%20to%20giving%20great%20feedback%E2%80%9D" class="social-share-link" title="Share &quot;Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;&quot; via Facebook" data-network-name="facebook" data-share-title="Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;" data-share-url="https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/">
+<span class="et-extra-icon et-extra-icon-facebook et-extra-icon-background-hover"></span>
+</a><a href="http://twitter.com/intent/tweet?text=Short%20TED%20Talk%20Video%3A%20%E2%80%9CThe%20secret%20to%20giving%20great%20feedback%E2%80%9D%20https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/" class="social-share-link" title="Share &quot;Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;&quot; via Twitter" data-network-name="twitter" data-share-title="Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;" data-share-url="https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/">
+<span class="et-extra-icon et-extra-icon-twitter et-extra-icon-background-hover"></span>
+</a><a href="https://plus.google.com/share?url=https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/&#038;t=Short%20TED%20Talk%20Video%3A%20%E2%80%9CThe%20secret%20to%20giving%20great%20feedback%E2%80%9D" class="social-share-link" title="Share &quot;Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;&quot; via Google +" data-network-name="googleplus" data-share-title="Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;" data-share-url="https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/">
+<span class="et-extra-icon et-extra-icon-googleplus et-extra-icon-background-hover"></span>
+</a><a href="https://www.tumblr.com/share?v=3&#038;u=https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/&#038;t=Short%20TED%20Talk%20Video%3A%20%E2%80%9CThe%20secret%20to%20giving%20great%20feedback%E2%80%9D" class="social-share-link" title="Share &quot;Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;&quot; via Tumblr" data-network-name="tumblr" data-share-title="Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;" data-share-url="https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/">
+<span class="et-extra-icon et-extra-icon-tumblr et-extra-icon-background-hover"></span>
+</a><a href="http://www.pinterest.com/pin/create/button/?url=https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/&#038;description=Short%20TED%20Talk%20Video%3A%20%E2%80%9CThe%20secret%20to%20giving%20great%20feedback%E2%80%9D&#038;media=" class="social-share-link" title="Share &quot;Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;&quot; via Pinterest" data-network-name="pinterest" data-share-title="Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;" data-share-url="https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/">
+<span class="et-extra-icon et-extra-icon-pinterest et-extra-icon-background-hover"></span>
+</a><a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/&#038;title=Short%20TED%20Talk%20Video%3A%20%E2%80%9CThe%20secret%20to%20giving%20great%20feedback%E2%80%9D" class="social-share-link" title="Share &quot;Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;&quot; via LinkedIn" data-network-name="linkedin" data-share-title="Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;" data-share-url="https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/">
+<span class="et-extra-icon et-extra-icon-linkedin et-extra-icon-background-hover"></span>
+</a><a href="https://bufferapp.com/add?url=https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/&#038;title=Short%20TED%20Talk%20Video%3A%20%E2%80%9CThe%20secret%20to%20giving%20great%20feedback%E2%80%9D" class="social-share-link" title="Share &quot;Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;&quot; via Buffer" data-network-name="buffer" data-share-title="Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;" data-share-url="https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/">
+<span class="et-extra-icon et-extra-icon-buffer et-extra-icon-background-hover"></span>
+</a><a href="http://www.stumbleupon.com/badge?url=https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/&#038;title=Short%20TED%20Talk%20Video%3A%20%E2%80%9CThe%20secret%20to%20giving%20great%20feedback%E2%80%9D" class="social-share-link" title="Share &quot;Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;&quot; via Stumbleupon" data-network-name="stumbleupon" data-share-title="Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;" data-share-url="https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/">
+<span class="et-extra-icon et-extra-icon-stumbleupon et-extra-icon-background-hover"></span>
+</a><a href="#" class="social-share-link" title="Share &quot;Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;&quot; via Email" data-network-name="basic_email" data-share-title="Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;" data-share-url="https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/">
+<span class="et-extra-icon et-extra-icon-basic_email et-extra-icon-background-hover"></span>
+</a><a href="#" class="social-share-link" title="Share &quot;Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;&quot; via Print" data-network-name="basic_print" data-share-title="Short TED Talk Video: &#8220;The secret to giving great feedback&#8221;" data-share-url="https://larryferlazzo.edublogs.org/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/">
+<span class="et-extra-icon et-extra-icon-basic_print et-extra-icon-background-hover"></span>
+</a> </div>
+<div class="rating-stars">
+<p id="rate-title" class="rate-title">Rate:</p><div id="rating-stars"></div><input type="hidden" id="post_id" value="105650" /> </div>
+<style type="text/css" id="rating-stars">
+									.post-footer .rating-stars #rated-stars img.star-on,
+									.post-footer .rating-stars #rating-stars img.star-on {
+										background-color: #;
+									}
+								</style>
+</div>
+</article>
+<nav class="post-nav">
+<div class="nav-links clearfix">
+<div class="nav-link nav-link-prev">
+<a href="https://larryferlazzo.edublogs.org/2020/03/03/classroom-instruction-resources-of-the-week-269/" rel="prev"><span class="button">Previous</span><span class="title">Classroom Instruction Resources Of The Week</span></a> </div>
+<div class="nav-link nav-link-next">
+<a href="https://larryferlazzo.edublogs.org/2020/03/03/google-announces-that-advanced-hangouts-meet-features-are-free-to-help-schools-affected-by-the-coronavirus/" rel="next"><span class="button">Next</span><span class="title">Google Announces That &#8220;advanced Hangouts Meet&#8221; Features Are Free To Help Schools Affected By The Coronavirus</span></a> </div>
+</div>
+</nav>
+<div class="et_extra_other_module author-box vcard">
+<div class="author-box-header">
+<h3>About The Author</h3>
+</div>
+<div class="author-box-content clearfix">
+<div class="author-box-avatar">
+<img alt='' src='https://edublogs.org/wp-content/default-avatar-128.png?r=G' class='avatar avatar-128' height='128' width='128' /> </div>
+<div class="author-box-description">
+<h4><a class="author-link url fn" href="https://larryferlazzo.edublogs.org/author/mrferlazzo/" rel="author" title="View all posts by Larry Ferlazzo">Larry Ferlazzo</a></h4>
+<p class="note">I'm a high school teacher in Sacramento, CA.</p>
+<ul class="social-icons">
+</ul>
+</div>
+</div>
+</div>
+<div class="et_extra_other_module related-posts">
+<div class="related-posts-header">
+<h3>Related Posts</h3>
+</div>
+<div class="related-posts-content clearfix">
+<div class="related-post">
+<div class="featured-image"><a href="https://larryferlazzo.edublogs.org/2017/05/29/the-best-articles-blog-posts-offering-practical-advice-resources-to-teachers-in-2017-so-far/" title="The Best Articles (&#038; Blog Posts) Offering Practical Advice &#038; Resources To Teachers In 2017 &#8211; So Far" class="post-thumbnail">
+<img src="https://larryferlazzo.edublogs.org/wp-content/themes/Extra/images/post-format-thumb-text.svg" alt="The Best Articles (&#038; Blog Posts) Offering Practical Advice &#038; Resources To Teachers In 2017 &#8211; So Far" /><span class="et_pb_extra_overlay"></span>
+</a></div>
+<h4 class="title"><a href="https://larryferlazzo.edublogs.org/2017/05/29/the-best-articles-blog-posts-offering-practical-advice-resources-to-teachers-in-2017-so-far/">The Best Articles (&#038; Blog Posts) Offering Practical Advice &#038; Resources To Teachers In 2017 &#8211; So Far</a></h4>
+<p class="date"><span class="updated">May 29, 2017</span></p>
+</div>
+<div class="related-post">
+<div class="featured-image"><a href="https://larryferlazzo.edublogs.org/2012/03/27/perpetual-ocean/" title="&#8220;Perpetual Ocean&#8221;" class="post-thumbnail">
+<img src="https://larryferlazzo.edublogs.org/wp-content/themes/Extra/images/post-format-thumb-text.svg" alt="&#8220;Perpetual Ocean&#8221;" /><span class="et_pb_extra_overlay"></span>
+</a></div>
+<h4 class="title"><a href="https://larryferlazzo.edublogs.org/2012/03/27/perpetual-ocean/">&#8220;Perpetual Ocean&#8221;</a></h4>
+<p class="date"><span class="updated">March 27, 2012</span></p>
+</div>
+<div class="related-post">
+<div class="featured-image"><a href="https://larryferlazzo.edublogs.org/2020/11/28/heres-my-not-too-creative-thinking-about-virtual-class-holiday-celebrations-share-your-own-plans/" title="Here&#8217;s My Not-Too-Creative Thinking About Virtual Class Holiday Celebrations &#8211; Share Your Own Plans!" class="post-thumbnail">
+<img src="https://larryferlazzo.edublogs.org/wp-content/themes/Extra/images/post-format-thumb-text.svg" alt="Here&#8217;s My Not-Too-Creative Thinking About Virtual Class Holiday Celebrations &#8211; Share Your Own Plans!" /><span class="et_pb_extra_overlay"></span>
+</a></div>
+<h4 class="title"><a href="https://larryferlazzo.edublogs.org/2020/11/28/heres-my-not-too-creative-thinking-about-virtual-class-holiday-celebrations-share-your-own-plans/">Here&#8217;s My Not-Too-Creative Thinking About Virtual Class Holiday Celebrations &#8211; Share Your Own Plans!</a></h4>
+<p class="date"><span class="updated">November 28, 2020</span></p>
+ </div>
+<div class="related-post">
+<div class="featured-image"><a href="https://larryferlazzo.edublogs.org/2012/04/30/the-best-tools-for-creating-clozes-gap-fills/" title="The Best Tools For Creating Clozes (Gap-Fills)" class="post-thumbnail">
+<img src="https://larryferlazzo.edublogs.org/wp-content/themes/Extra/images/post-format-thumb-text.svg" alt="The Best Tools For Creating Clozes (Gap-Fills)" /><span class="et_pb_extra_overlay"></span>
+</a></div>
+<h4 class="title"><a href="https://larryferlazzo.edublogs.org/2012/04/30/the-best-tools-for-creating-clozes-gap-fills/">The Best Tools For Creating Clozes (Gap-Fills)</a></h4>
+<p class="date"><span class="updated">April 30, 2012</span></p>
+</div>
+</div>
+</div>
+
+<section id="comment-wrap">
+<div id="comments" class="nocomments">
+
+</div>
+<div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title"><span>Leave a reply</span> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2020/03/03/short-ted-talk-video-the-secret-to-giving-great-feedback/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://larryferlazzo.edublogs.org/wp-comments-post.php" method="post" id="commentform" class="comment-form"><div class="quick-login-buttons"><p class="quick-login-label"><label>Login with:</label></p><a href="https://larryferlazzo.edublogs.org/wp-login.php?quick-login=google&#038;redirect_to=%2F2020%2F03%2F03%2Fshort-ted-talk-video-the-secret-to-giving-great-feedback%2F" rel="nofollow" class="quick-login-icon quick-login-provider-google" style="--quick-login-color: #4285F4" title="Continue with Google"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12.24 10.285V14.4h6.806c-.275 1.765-2.056 5.174-6.806 5.174-4.095 0-7.439-3.389-7.439-7.574s3.345-7.574 7.439-7.574c2.33 0 3.891.989 4.785 1.849l3.254-3.138C18.189 1.186 15.479 0 12.24 0c-6.635 0-12 5.365-12 12s5.365 12 12 12c6.926 0 11.52-4.869 11.52-11.726 0-.788-.085-1.39-.189-1.989H12.24z" /></svg></a><a href="https://larryferlazzo.edublogs.org/wp-login.php?quick-login=clever&#038;redirect_to=%2F2020%2F03%2F03%2Fshort-ted-talk-video-the-secret-to-giving-great-feedback%2F" rel="nofollow" class="quick-login-icon quick-login-provider-clever" style="--quick-login-color: #436cf2" title="Continue with Clever"><svg height="163.89999" width="146.39999" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 146.39999 163.89999" y="0px" x="0px" version="1.1"><path id="path4" d="M 81.3,163.9 C 34.6,163.9 0,127.9 0,82.4 V 82 C 0,36.9 34,0 82.7,0 c 29.9,0 47.8,10 62.5,24.5 L 123,49.9 C 110.8,38.8 98.3,32 82.5,32 c -26.7,0 -46,22.2 -46,49.4 v 0.5 c 0,27.2 18.8,49.8 46,49.8 18.1,0 29.2,-7.2 41.7,-18.6 l 22.2,22.4 C 130,153 111.9,163.9 81.3,163.9" class="st0" /></svg></a></div><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">COMMENT</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='105650' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><input type="hidden" id="_wp_unfiltered_html_comment_disabled" name="_wp_unfiltered_html_comment_disabled" value="8762606079" /><script>(function(){if(window===window.parent){document.getElementById('_wp_unfiltered_html_comment_disabled').name='_wp_unfiltered_html_comment';}})();</script>
+</form> </div>
+</section>
+</div>
+<div class="et_pb_extra_column_sidebar">
+<div id="search-3" class="et_pb_widget widget_search"><h4 class="widgettitle"> </h4><form role="search" method="get" class="search-form" action="https://larryferlazzo.edublogs.org/">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+</label>
+<input type="submit" class="search-submit" value="Search" />
+</form></div> <div id="media_image-3" class="et_pb_widget widget_media_image"><h4 class="widgettitle">My Amazon Author&#8217;s page</h4><a href="https://www.amazon.com/Larry-Ferlazzo/e/B0028OK9ZW/ref=sr_ntt_srch_lnk_2?qid=1385496850&#038;sr=8-2"><img width="185" height="233" src="https://larryferlazzo.edublogs.org/files/2018/08/larry-23q3868-1f737fa.jpg" class="image wp-image-89552  attachment-full size-full" alt="Larry Ferlazzo Amazon" loading="lazy" style="max-width: 100%; height: auto;" /></a></div> <div id="custom_html-2" class="widget_text et_pb_widget widget_custom_html"><h4 class="widgettitle">SUBSCRIBE BY EMAIL</h4><div class="textwidget custom-html-widget"><center><form method="POST" action="https://www.feedblitz.com/f/f.fbz?AddNewUserDirect">
+<input type="hidden" name="sub" value="168021">
+Enter your Email<br><input name="EMAIL" maxlength="64" type="text" size="25" value=""><br>
+<input name="FEEDID" type="hidden" value="168021">
+<input name="PUBLISHER" type="hidden" value="32130"><br>
+<input type="submit" value="Subscribe me!" style="background-color: #64AAC7; color: #fff;">
+<br><a href="https://www.feedblitz.com/f?previewfeed=168021">Preview</a>
+</form> </center></div></div> 
+<div id="recent-posts-3" class="et_pb_widget widget_recent_entries">
+<h4 class="widgettitle">Recent Posts</h4>
+<ul>
+<li>
+<a href="https://larryferlazzo.edublogs.org/2022/05/06/highlights-from-the-third-week-of-the-mllchat_bkclub-online-chat-about-our-new-book/">Highlights From The Third Week Of The #MLLChat_BkClub Online Chat About Our New Book</a>
+</li>
+<li>
+<a href="https://larryferlazzo.edublogs.org/2022/05/05/may-8th-is-mothers-day-here-are-teaching-learning-resources/">May 8th Is Mother&#8217;s Day &#8211; Here Are Teaching &#038; Learning Resources</a>
+</li>
+<li>
+<a href="https://larryferlazzo.edublogs.org/2022/05/05/may-22nd-is-international-day-for-biological-diversity-here-are-teaching-learning-resources-2/">May 22nd Is &#8220;International Day for Biological Diversity&#8221; &#8211; Here Are Teaching &#038; Learning Resources</a>
+</li>
+<li>
+<a href="https://larryferlazzo.edublogs.org/2022/05/05/a-look-back-8-tools-for-creating-online-worksheets/">A Look Back: 8 Tools For Creating Online Worksheets</a>
+</li>
+<li>
+<a href="https://larryferlazzo.edublogs.org/2022/05/05/new-pbs-newshour-video-political-targeting-the-pandemic-exacerbate-mental-health-struggles-of-lgbtq-youth/">New PBS NewsHour Video: &#8220;Political targeting, the pandemic exacerbate mental health struggles of LGBTQ youth&#8221;</a>
+</li>
+</ul>
+</div> <div id="recent-comments-3" class="et_pb_widget widget_recent_comments"><h4 class="widgettitle">Recent Comments</h4><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">GEOVANA CONCEPCION</span> on <a href="https://larryferlazzo.edublogs.org/2022/03/09/googles-new-aloud-tool-could-be-a-huge-asset-to-teachers-who-want-to-make-their-content-accessible-to-ells/comment-page-1/#comment-54846">Google&#8217;s New &#8220;Aloud&#8221; Tool Could Be A Huge Asset To Teachers Who Want To Make Their Content Accessible To ELLs</a></li><li class="recentcomments"><span class="comment-author-link">Helen Weitzel</span> on <a href="https://larryferlazzo.edublogs.org/2022/04/01/want-successful-professional-development-try-promoting-curiosity/comment-page-1/#comment-54838">&#8220;Want Successful Professional Development? Try Promoting Curiosity&#8221;</a></li><li class="recentcomments"><span class="comment-author-link">Oliver vigelante</span> on <a href="https://larryferlazzo.edublogs.org/2019/09/19/the-all-time-best-teaching-learning-resources-available-on-this-blog/comment-page-1/#comment-54835">The &#8220;All-Time&#8221; Best Teaching &#038; Learning Resources Available On This Blog</a></li><li class="recentcomments"><span class="comment-author-link">kliving</span> on <a href="https://larryferlazzo.edublogs.org/2019/02/10/guest-post-teaching-the-harlem-renaissance-to-ells/comment-page-1/#comment-54834">Guest Post: Teaching The Harlem Renaissance To ELLs</a></li><li class="recentcomments"><span class="comment-author-link">Oliver Becker</span> on <a href="https://larryferlazzo.edublogs.org/2020/06/25/the-importance-of-saying-enslaved-person-enslaver/comment-page-1/#comment-54833">The Importance Of Saying &#8220;Enslaved Person&#8221; &#038; &#8220;Enslaver&#8221;</a></li></ul></div> <div id="categories-2" class="et_pb_widget widget_categories"><h4 class="widgettitle">Categories</h4><form action="https://larryferlazzo.edublogs.org" method="get"><label class="screen-reader-text" for="cat">Categories</label><select name='cat' id='cat' class='postform'>
+<option value='-1'>Select Category</option>
+<option class="level-0" value="239034">a look back&nbsp;&nbsp;(856)</option>
+<option class="level-0" value="4641865">a look back compilations&nbsp;&nbsp;(5)</option>
+<option class="level-0" value="50185">best of the year&nbsp;&nbsp;(2,306)</option>
+<option class="level-0" value="316793">best tweets&nbsp;&nbsp;(375)</option>
+<option class="level-0" value="25268">bilingual&nbsp;&nbsp;(37)</option>
+<option class="level-0" value="568">blogs&nbsp;&nbsp;(673)</option>
+<option class="level-0" value="1961">book reviews&nbsp;&nbsp;(2)</option>
+<option class="level-0" value="84724">British Council&nbsp;&nbsp;(23)</option>
+<option class="level-0" value="45083">classroom practice&nbsp;&nbsp;(493)</option>
+<option class="level-0" value="15469">dictionaries&nbsp;&nbsp;(26)</option>
+<option class="level-0" value="4641862">ed tech digest&nbsp;&nbsp;(327)</option>
+<option class="level-0" value="4641850">Ed Week Teacher&nbsp;&nbsp;(1,934)</option>
+<option class="level-0" value="47401">ESL Carnival&nbsp;&nbsp;(46)</option>
+<option class="level-0" value="4641851">ESL Web&nbsp;&nbsp;(692)</option>
+<option class="level-0" value="726">geography&nbsp;&nbsp;(252)</option>
+<option class="level-0" value="1985">grammar&nbsp;&nbsp;(49)</option>
+<option class="level-0" value="1473">health&nbsp;&nbsp;(209)</option>
+<option class="level-0" value="930932">hot spot interviews&nbsp;&nbsp;(19)</option>
+<option class="level-0" value="598">humor&nbsp;&nbsp;(2)</option>
+<option class="level-0" value="192903">infographic&nbsp;&nbsp;(105)</option>
+<option class="level-0" value="192529">infographics&nbsp;&nbsp;(131)</option>
+<option class="level-0" value="1605">instruction&nbsp;&nbsp;(389)</option>
+<option class="level-0" value="24538">Intermediate English&nbsp;&nbsp;(213)</option>
+<option class="level-0" value="1919">interviews&nbsp;&nbsp;(41)</option>
+<option class="level-0" value="19815">learning games&nbsp;&nbsp;(713)</option>
+<option class="level-0" value="1779">lessons&nbsp;&nbsp;(4)</option>
+<option class="level-0" value="911984">links I should posted&nbsp;&nbsp;(157)</option>
+<option class="level-0" value="12647">listening&nbsp;&nbsp;(174)</option>
+<option class="level-0" value="411">math&nbsp;&nbsp;(148)</option>
+<option class="level-0" value="297538">monthly best lists&nbsp;&nbsp;(158)</option>
+<option class="level-0" value="515779">monthly updated lists&nbsp;&nbsp;(380)</option>
+<option class="level-0" value="157147">most popular posts&nbsp;&nbsp;(509)</option>
+<option class="level-0" value="3661">music and art&nbsp;&nbsp;(311)</option>
+<option class="level-0" value="29112">nytimes&nbsp;&nbsp;(71)</option>
+<option class="level-0" value="157920">photo galleries&nbsp;&nbsp;(50)</option>
+<option class="level-0" value="4641866">pins of the week&nbsp;&nbsp;(219)</option>
+<option class="level-0" value="507">podcast&nbsp;&nbsp;(305)</option>
+<option class="level-0" value="334790">popular site lists&nbsp;&nbsp;(100)</option>
+<option class="level-0" value="239716">Post Rank&nbsp;&nbsp;(38)</option>
+<option class="level-0" value="25438">quote&nbsp;&nbsp;(238)</option>
+<option class="level-0" value="423">reading&nbsp;&nbsp;(817)</option>
+<option class="level-0" value="6264">research studies&nbsp;&nbsp;(974)</option>
+<option class="level-0" value="591289">school closures&nbsp;&nbsp;(753)</option>
+<option class="level-0" value="5696">school reform&nbsp;&nbsp;(2,516)</option>
+<option class="level-0" value="120">science&nbsp;&nbsp;(1,134)</option>
+<option class="level-0" value="11164">search engines&nbsp;&nbsp;(107)</option>
+<option class="level-0" value="4641863">SEL Update&nbsp;&nbsp;(254)</option>
+<option class="level-0" value="797">social studies&nbsp;&nbsp;(6,031)</option>
+<option class="level-0" value="188037">statistic&nbsp;&nbsp;(94)</option>
+<option class="level-0" value="27242">subscribing to this blog&nbsp;&nbsp;(4)</option>
+<option class="level-0" value="25553">talking&nbsp;&nbsp;(256)</option>
+<option class="level-0" value="108">teacher resources&nbsp;&nbsp;(5,267)</option>
+<option class="level-0" value="50">technology&nbsp;&nbsp;(665)</option>
+<option class="level-0" value="68455">TOK&nbsp;&nbsp;(533)</option>
+<option class="level-0" value="28181">top ten list&nbsp;&nbsp;(191)</option>
+<option class="level-0" value="30624">twitter&nbsp;&nbsp;(81)</option>
+<option class="level-0" value="1">Uncategorized&nbsp;&nbsp;(1,611)</option>
+<option class="level-0" value="4641864">updated list compilations&nbsp;&nbsp;(24)</option>
+<option class="level-0" value="2119">video&nbsp;&nbsp;(3,398)</option>
+<option class="level-0" value="24458">viral marketing&nbsp;&nbsp;(48)</option>
+<option class="level-0" value="1026">vocabulary&nbsp;&nbsp;(282)</option>
+<option class="level-0" value="186771">web 2.0&nbsp;&nbsp;(2,265)</option>
+<option class="level-0" value="297463">what do you do when&nbsp;&nbsp;(16)</option>
+<option class="level-0" value="631">writing&nbsp;&nbsp;(680)</option>
+</select>
+</form>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+</div> <div id="archives-3" class="et_pb_widget widget_archive"><h4 class="widgettitle">Archives</h4> <label class="screen-reader-text" for="archives-dropdown-3">Archives</label>
+<select id="archives-dropdown-3" name="archive-dropdown">
+<option value="">Select Month</option>
+<option value='https://larryferlazzo.edublogs.org/2022/05/'> May 2022 &nbsp;(23)</option>
+<option value='https://larryferlazzo.edublogs.org/2022/04/'> April 2022 &nbsp;(108)</option>
+<option value='https://larryferlazzo.edublogs.org/2022/03/'> March 2022 &nbsp;(146)</option>
+<option value='https://larryferlazzo.edublogs.org/2022/02/'> February 2022 &nbsp;(116)</option>
+<option value='https://larryferlazzo.edublogs.org/2022/01/'> January 2022 &nbsp;(144)</option>
+<option value='https://larryferlazzo.edublogs.org/2021/12/'> December 2021 &nbsp;(144)</option>
+<option value='https://larryferlazzo.edublogs.org/2021/11/'> November 2021 &nbsp;(130)</option>
+<option value='https://larryferlazzo.edublogs.org/2021/10/'> October 2021 &nbsp;(137)</option>
+<option value='https://larryferlazzo.edublogs.org/2021/09/'> September 2021 &nbsp;(147)</option>
+<option value='https://larryferlazzo.edublogs.org/2021/08/'> August 2021 &nbsp;(171)</option>
+<option value='https://larryferlazzo.edublogs.org/2021/07/'> July 2021 &nbsp;(121)</option>
+<option value='https://larryferlazzo.edublogs.org/2021/06/'> June 2021 &nbsp;(111)</option>
+<option value='https://larryferlazzo.edublogs.org/2021/05/'> May 2021 &nbsp;(131)</option>
+<option value='https://larryferlazzo.edublogs.org/2021/04/'> April 2021 &nbsp;(133)</option>
+<option value='https://larryferlazzo.edublogs.org/2021/03/'> March 2021 &nbsp;(140)</option>
+<option value='https://larryferlazzo.edublogs.org/2021/02/'> February 2021 &nbsp;(127)</option>
+<option value='https://larryferlazzo.edublogs.org/2021/01/'> January 2021 &nbsp;(152)</option>
+<option value='https://larryferlazzo.edublogs.org/2020/12/'> December 2020 &nbsp;(166)</option>
+<option value='https://larryferlazzo.edublogs.org/2020/11/'> November 2020 &nbsp;(161)</option>
+<option value='https://larryferlazzo.edublogs.org/2020/10/'> October 2020 &nbsp;(175)</option>
+<option value='https://larryferlazzo.edublogs.org/2020/09/'> September 2020 &nbsp;(161)</option>
+<option value='https://larryferlazzo.edublogs.org/2020/08/'> August 2020 &nbsp;(191)</option>
+<option value='https://larryferlazzo.edublogs.org/2020/07/'> July 2020 &nbsp;(203)</option>
+<option value='https://larryferlazzo.edublogs.org/2020/06/'> June 2020 &nbsp;(191)</option>
+<option value='https://larryferlazzo.edublogs.org/2020/05/'> May 2020 &nbsp;(178)</option>
+<option value='https://larryferlazzo.edublogs.org/2020/04/'> April 2020 &nbsp;(177)</option>
+<option value='https://larryferlazzo.edublogs.org/2020/03/'> March 2020 &nbsp;(183)</option>
+<option value='https://larryferlazzo.edublogs.org/2020/02/'> February 2020 &nbsp;(151)</option>
+<option value='https://larryferlazzo.edublogs.org/2020/01/'> January 2020 &nbsp;(169)</option>
+<option value='https://larryferlazzo.edublogs.org/2019/12/'> December 2019 &nbsp;(156)</option>
+<option value='https://larryferlazzo.edublogs.org/2019/11/'> November 2019 &nbsp;(170)</option>
+<option value='https://larryferlazzo.edublogs.org/2019/10/'> October 2019 &nbsp;(158)</option>
+<option value='https://larryferlazzo.edublogs.org/2019/09/'> September 2019 &nbsp;(165)</option>
+<option value='https://larryferlazzo.edublogs.org/2019/08/'> August 2019 &nbsp;(163)</option>
+<option value='https://larryferlazzo.edublogs.org/2019/07/'> July 2019 &nbsp;(180)</option>
+<option value='https://larryferlazzo.edublogs.org/2019/06/'> June 2019 &nbsp;(156)</option>
+<option value='https://larryferlazzo.edublogs.org/2019/05/'> May 2019 &nbsp;(142)</option>
+<option value='https://larryferlazzo.edublogs.org/2019/04/'> April 2019 &nbsp;(151)</option>
+<option value='https://larryferlazzo.edublogs.org/2019/03/'> March 2019 &nbsp;(164)</option>
+<option value='https://larryferlazzo.edublogs.org/2019/02/'> February 2019 &nbsp;(149)</option>
+<option value='https://larryferlazzo.edublogs.org/2019/01/'> January 2019 &nbsp;(197)</option>
+<option value='https://larryferlazzo.edublogs.org/2018/12/'> December 2018 &nbsp;(189)</option>
+<option value='https://larryferlazzo.edublogs.org/2018/11/'> November 2018 &nbsp;(173)</option>
+<option value='https://larryferlazzo.edublogs.org/2018/10/'> October 2018 &nbsp;(183)</option>
+<option value='https://larryferlazzo.edublogs.org/2018/09/'> September 2018 &nbsp;(196)</option>
+<option value='https://larryferlazzo.edublogs.org/2018/08/'> August 2018 &nbsp;(211)</option>
+<option value='https://larryferlazzo.edublogs.org/2018/07/'> July 2018 &nbsp;(174)</option>
+<option value='https://larryferlazzo.edublogs.org/2018/06/'> June 2018 &nbsp;(177)</option>
+<option value='https://larryferlazzo.edublogs.org/2018/05/'> May 2018 &nbsp;(171)</option>
+<option value='https://larryferlazzo.edublogs.org/2018/04/'> April 2018 &nbsp;(174)</option>
+<option value='https://larryferlazzo.edublogs.org/2018/03/'> March 2018 &nbsp;(210)</option>
+<option value='https://larryferlazzo.edublogs.org/2018/02/'> February 2018 &nbsp;(194)</option>
+<option value='https://larryferlazzo.edublogs.org/2018/01/'> January 2018 &nbsp;(200)</option>
+<option value='https://larryferlazzo.edublogs.org/2017/12/'> December 2017 &nbsp;(171)</option>
+<option value='https://larryferlazzo.edublogs.org/2017/11/'> November 2017 &nbsp;(172)</option>
+<option value='https://larryferlazzo.edublogs.org/2017/10/'> October 2017 &nbsp;(168)</option>
+<option value='https://larryferlazzo.edublogs.org/2017/09/'> September 2017 &nbsp;(168)</option>
+<option value='https://larryferlazzo.edublogs.org/2017/08/'> August 2017 &nbsp;(145)</option>
+<option value='https://larryferlazzo.edublogs.org/2017/07/'> July 2017 &nbsp;(151)</option>
+<option value='https://larryferlazzo.edublogs.org/2017/06/'> June 2017 &nbsp;(167)</option>
+<option value='https://larryferlazzo.edublogs.org/2017/05/'> May 2017 &nbsp;(167)</option>
+<option value='https://larryferlazzo.edublogs.org/2017/04/'> April 2017 &nbsp;(180)</option>
+<option value='https://larryferlazzo.edublogs.org/2017/03/'> March 2017 &nbsp;(151)</option>
+<option value='https://larryferlazzo.edublogs.org/2017/02/'> February 2017 &nbsp;(159)</option>
+<option value='https://larryferlazzo.edublogs.org/2017/01/'> January 2017 &nbsp;(165)</option>
+<option value='https://larryferlazzo.edublogs.org/2016/12/'> December 2016 &nbsp;(189)</option>
+<option value='https://larryferlazzo.edublogs.org/2016/11/'> November 2016 &nbsp;(184)</option>
+<option value='https://larryferlazzo.edublogs.org/2016/10/'> October 2016 &nbsp;(192)</option>
+<option value='https://larryferlazzo.edublogs.org/2016/09/'> September 2016 &nbsp;(180)</option>
+<option value='https://larryferlazzo.edublogs.org/2016/08/'> August 2016 &nbsp;(217)</option>
+<option value='https://larryferlazzo.edublogs.org/2016/07/'> July 2016 &nbsp;(178)</option>
+<option value='https://larryferlazzo.edublogs.org/2016/06/'> June 2016 &nbsp;(183)</option>
+<option value='https://larryferlazzo.edublogs.org/2016/05/'> May 2016 &nbsp;(166)</option>
+<option value='https://larryferlazzo.edublogs.org/2016/04/'> April 2016 &nbsp;(168)</option>
+<option value='https://larryferlazzo.edublogs.org/2016/03/'> March 2016 &nbsp;(192)</option>
+<option value='https://larryferlazzo.edublogs.org/2016/02/'> February 2016 &nbsp;(179)</option>
+<option value='https://larryferlazzo.edublogs.org/2016/01/'> January 2016 &nbsp;(180)</option>
+<option value='https://larryferlazzo.edublogs.org/2015/12/'> December 2015 &nbsp;(197)</option>
+<option value='https://larryferlazzo.edublogs.org/2015/11/'> November 2015 &nbsp;(158)</option>
+<option value='https://larryferlazzo.edublogs.org/2015/10/'> October 2015 &nbsp;(177)</option>
+<option value='https://larryferlazzo.edublogs.org/2015/09/'> September 2015 &nbsp;(166)</option>
+<option value='https://larryferlazzo.edublogs.org/2015/08/'> August 2015 &nbsp;(168)</option>
+<option value='https://larryferlazzo.edublogs.org/2015/07/'> July 2015 &nbsp;(176)</option>
+<option value='https://larryferlazzo.edublogs.org/2015/06/'> June 2015 &nbsp;(186)</option>
+<option value='https://larryferlazzo.edublogs.org/2015/05/'> May 2015 &nbsp;(146)</option>
+<option value='https://larryferlazzo.edublogs.org/2015/04/'> April 2015 &nbsp;(177)</option>
+<option value='https://larryferlazzo.edublogs.org/2015/03/'> March 2015 &nbsp;(167)</option>
+<option value='https://larryferlazzo.edublogs.org/2015/02/'> February 2015 &nbsp;(161)</option>
+<option value='https://larryferlazzo.edublogs.org/2015/01/'> January 2015 &nbsp;(192)</option>
+<option value='https://larryferlazzo.edublogs.org/2014/12/'> December 2014 &nbsp;(183)</option>
+<option value='https://larryferlazzo.edublogs.org/2014/11/'> November 2014 &nbsp;(165)</option>
+<option value='https://larryferlazzo.edublogs.org/2014/10/'> October 2014 &nbsp;(171)</option>
+<option value='https://larryferlazzo.edublogs.org/2014/09/'> September 2014 &nbsp;(152)</option>
+<option value='https://larryferlazzo.edublogs.org/2014/08/'> August 2014 &nbsp;(174)</option>
+<option value='https://larryferlazzo.edublogs.org/2014/07/'> July 2014 &nbsp;(175)</option>
+<option value='https://larryferlazzo.edublogs.org/2014/06/'> June 2014 &nbsp;(139)</option>
+<option value='https://larryferlazzo.edublogs.org/2014/05/'> May 2014 &nbsp;(140)</option>
+<option value='https://larryferlazzo.edublogs.org/2014/04/'> April 2014 &nbsp;(165)</option>
+<option value='https://larryferlazzo.edublogs.org/2014/03/'> March 2014 &nbsp;(167)</option>
+<option value='https://larryferlazzo.edublogs.org/2014/02/'> February 2014 &nbsp;(167)</option>
+<option value='https://larryferlazzo.edublogs.org/2014/01/'> January 2014 &nbsp;(198)</option>
+<option value='https://larryferlazzo.edublogs.org/2013/12/'> December 2013 &nbsp;(198)</option>
+<option value='https://larryferlazzo.edublogs.org/2013/11/'> November 2013 &nbsp;(185)</option>
+<option value='https://larryferlazzo.edublogs.org/2013/10/'> October 2013 &nbsp;(173)</option>
+<option value='https://larryferlazzo.edublogs.org/2013/09/'> September 2013 &nbsp;(172)</option>
+<option value='https://larryferlazzo.edublogs.org/2013/08/'> August 2013 &nbsp;(182)</option>
+<option value='https://larryferlazzo.edublogs.org/2013/07/'> July 2013 &nbsp;(195)</option>
+<option value='https://larryferlazzo.edublogs.org/2013/06/'> June 2013 &nbsp;(207)</option>
+<option value='https://larryferlazzo.edublogs.org/2013/05/'> May 2013 &nbsp;(211)</option>
+<option value='https://larryferlazzo.edublogs.org/2013/04/'> April 2013 &nbsp;(164)</option>
+<option value='https://larryferlazzo.edublogs.org/2013/03/'> March 2013 &nbsp;(200)</option>
+<option value='https://larryferlazzo.edublogs.org/2013/02/'> February 2013 &nbsp;(165)</option>
+<option value='https://larryferlazzo.edublogs.org/2013/01/'> January 2013 &nbsp;(179)</option>
+<option value='https://larryferlazzo.edublogs.org/2012/12/'> December 2012 &nbsp;(196)</option>
+<option value='https://larryferlazzo.edublogs.org/2012/11/'> November 2012 &nbsp;(161)</option>
+<option value='https://larryferlazzo.edublogs.org/2012/10/'> October 2012 &nbsp;(168)</option>
+<option value='https://larryferlazzo.edublogs.org/2012/09/'> September 2012 &nbsp;(178)</option>
+<option value='https://larryferlazzo.edublogs.org/2012/08/'> August 2012 &nbsp;(179)</option>
+<option value='https://larryferlazzo.edublogs.org/2012/07/'> July 2012 &nbsp;(203)</option>
+<option value='https://larryferlazzo.edublogs.org/2012/06/'> June 2012 &nbsp;(176)</option>
+<option value='https://larryferlazzo.edublogs.org/2012/05/'> May 2012 &nbsp;(162)</option>
+<option value='https://larryferlazzo.edublogs.org/2012/04/'> April 2012 &nbsp;(180)</option>
+<option value='https://larryferlazzo.edublogs.org/2012/03/'> March 2012 &nbsp;(163)</option>
+<option value='https://larryferlazzo.edublogs.org/2012/02/'> February 2012 &nbsp;(160)</option>
+<option value='https://larryferlazzo.edublogs.org/2012/01/'> January 2012 &nbsp;(153)</option>
+<option value='https://larryferlazzo.edublogs.org/2011/12/'> December 2011 &nbsp;(141)</option>
+<option value='https://larryferlazzo.edublogs.org/2011/11/'> November 2011 &nbsp;(141)</option>
+<option value='https://larryferlazzo.edublogs.org/2011/10/'> October 2011 &nbsp;(140)</option>
+<option value='https://larryferlazzo.edublogs.org/2011/09/'> September 2011 &nbsp;(132)</option>
+<option value='https://larryferlazzo.edublogs.org/2011/08/'> August 2011 &nbsp;(143)</option>
+<option value='https://larryferlazzo.edublogs.org/2011/07/'> July 2011 &nbsp;(143)</option>
+<option value='https://larryferlazzo.edublogs.org/2011/06/'> June 2011 &nbsp;(143)</option>
+<option value='https://larryferlazzo.edublogs.org/2011/05/'> May 2011 &nbsp;(158)</option>
+<option value='https://larryferlazzo.edublogs.org/2011/04/'> April 2011 &nbsp;(174)</option>
+<option value='https://larryferlazzo.edublogs.org/2011/03/'> March 2011 &nbsp;(206)</option>
+<option value='https://larryferlazzo.edublogs.org/2011/02/'> February 2011 &nbsp;(209)</option>
+<option value='https://larryferlazzo.edublogs.org/2011/01/'> January 2011 &nbsp;(235)</option>
+<option value='https://larryferlazzo.edublogs.org/2010/12/'> December 2010 &nbsp;(233)</option>
+<option value='https://larryferlazzo.edublogs.org/2010/11/'> November 2010 &nbsp;(218)</option>
+<option value='https://larryferlazzo.edublogs.org/2010/10/'> October 2010 &nbsp;(238)</option>
+<option value='https://larryferlazzo.edublogs.org/2010/09/'> September 2010 &nbsp;(201)</option>
+<option value='https://larryferlazzo.edublogs.org/2010/08/'> August 2010 &nbsp;(224)</option>
+<option value='https://larryferlazzo.edublogs.org/2010/07/'> July 2010 &nbsp;(188)</option>
+<option value='https://larryferlazzo.edublogs.org/2010/06/'> June 2010 &nbsp;(163)</option>
+<option value='https://larryferlazzo.edublogs.org/2010/05/'> May 2010 &nbsp;(229)</option>
+<option value='https://larryferlazzo.edublogs.org/2010/04/'> April 2010 &nbsp;(232)</option>
+<option value='https://larryferlazzo.edublogs.org/2010/03/'> March 2010 &nbsp;(228)</option>
+<option value='https://larryferlazzo.edublogs.org/2010/02/'> February 2010 &nbsp;(167)</option>
+<option value='https://larryferlazzo.edublogs.org/2010/01/'> January 2010 &nbsp;(170)</option>
+<option value='https://larryferlazzo.edublogs.org/2009/12/'> December 2009 &nbsp;(160)</option>
+<option value='https://larryferlazzo.edublogs.org/2009/11/'> November 2009 &nbsp;(127)</option>
+<option value='https://larryferlazzo.edublogs.org/2009/10/'> October 2009 &nbsp;(147)</option>
+<option value='https://larryferlazzo.edublogs.org/2009/09/'> September 2009 &nbsp;(175)</option>
+<option value='https://larryferlazzo.edublogs.org/2009/08/'> August 2009 &nbsp;(169)</option>
+<option value='https://larryferlazzo.edublogs.org/2009/07/'> July 2009 &nbsp;(174)</option>
+<option value='https://larryferlazzo.edublogs.org/2009/06/'> June 2009 &nbsp;(173)</option>
+<option value='https://larryferlazzo.edublogs.org/2009/05/'> May 2009 &nbsp;(194)</option>
+<option value='https://larryferlazzo.edublogs.org/2009/04/'> April 2009 &nbsp;(209)</option>
+<option value='https://larryferlazzo.edublogs.org/2009/03/'> March 2009 &nbsp;(179)</option>
+<option value='https://larryferlazzo.edublogs.org/2009/02/'> February 2009 &nbsp;(181)</option>
+<option value='https://larryferlazzo.edublogs.org/2009/01/'> January 2009 &nbsp;(193)</option>
+<option value='https://larryferlazzo.edublogs.org/2008/12/'> December 2008 &nbsp;(203)</option>
+<option value='https://larryferlazzo.edublogs.org/2008/11/'> November 2008 &nbsp;(199)</option>
+<option value='https://larryferlazzo.edublogs.org/2008/10/'> October 2008 &nbsp;(179)</option>
+<option value='https://larryferlazzo.edublogs.org/2008/09/'> September 2008 &nbsp;(136)</option>
+<option value='https://larryferlazzo.edublogs.org/2008/08/'> August 2008 &nbsp;(138)</option>
+<option value='https://larryferlazzo.edublogs.org/2008/07/'> July 2008 &nbsp;(106)</option>
+<option value='https://larryferlazzo.edublogs.org/2008/06/'> June 2008 &nbsp;(117)</option>
+<option value='https://larryferlazzo.edublogs.org/2008/05/'> May 2008 &nbsp;(104)</option>
+<option value='https://larryferlazzo.edublogs.org/2008/04/'> April 2008 &nbsp;(110)</option>
+<option value='https://larryferlazzo.edublogs.org/2008/03/'> March 2008 &nbsp;(89)</option>
+<option value='https://larryferlazzo.edublogs.org/2008/02/'> February 2008 &nbsp;(82)</option>
+<option value='https://larryferlazzo.edublogs.org/2008/01/'> January 2008 &nbsp;(134)</option>
+<option value='https://larryferlazzo.edublogs.org/2007/12/'> December 2007 &nbsp;(123)</option>
+<option value='https://larryferlazzo.edublogs.org/2007/11/'> November 2007 &nbsp;(114)</option>
+<option value='https://larryferlazzo.edublogs.org/2007/10/'> October 2007 &nbsp;(110)</option>
+<option value='https://larryferlazzo.edublogs.org/2007/09/'> September 2007 &nbsp;(84)</option>
+<option value='https://larryferlazzo.edublogs.org/2007/08/'> August 2007 &nbsp;(70)</option>
+<option value='https://larryferlazzo.edublogs.org/2007/07/'> July 2007 &nbsp;(53)</option>
+<option value='https://larryferlazzo.edublogs.org/2007/06/'> June 2007 &nbsp;(61)</option>
+<option value='https://larryferlazzo.edublogs.org/2007/05/'> May 2007 &nbsp;(63)</option>
+<option value='https://larryferlazzo.edublogs.org/2007/04/'> April 2007 &nbsp;(68)</option>
+<option value='https://larryferlazzo.edublogs.org/2007/03/'> March 2007 &nbsp;(37)</option>
+<option value='https://larryferlazzo.edublogs.org/2007/02/'> February 2007 &nbsp;(3)</option>
+<option value='https://larryferlazzo.edublogs.org/2022/05/'> 0 &nbsp;(1)</option>
+</select>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-3" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+</div> </div>
+</div> 
+</div> 
+</div> 
+<footer id="footer" class="footer_columns_3">
+<div class="container">
+<div class="et_pb_extra_row container-width-change-notify">
+<div class="et_pb_extra_column odd column-1">
+<div id="media_image-5" class="et_pb_widget widget_media_image"><h4 class="widgettitle"> </h4><a href="https://tools.applemediaservices.com/podcast/793983989?country=us"><img width="300" height="300" src="https://larryferlazzo.edublogs.org/files/2020/11/600x600bb-300x300.jpg" class="image wp-image-113363  attachment-medium size-medium" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://larryferlazzo.edublogs.org/files/2020/11/600x600bb-300x300.jpg 300w, https://larryferlazzo.edublogs.org/files/2020/11/600x600bb-150x150.jpg 150w, https://larryferlazzo.edublogs.org/files/2020/11/600x600bb.jpg 311w" sizes="(max-width: 300px) 100vw, 300px" /></a></div>  </div>
+<div class="et_pb_extra_column even column-2">
+<div id="black-studio-tinymce-2" class="et_pb_widget widget_black_studio_tinymce"><h4 class="widgettitle">My videos</h4><div class="textwidget"><iframe width="530" height="300" src="https://www.youtube.com/embed/PMxS9rohyvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="wmd-buttons" id="wmd-buttons-6275e8ed84a5a">
+<div class="wmd-buttons-content">
+<a href="http://larryferlazzo.edublogs.org/my-videos/" class="wmd-buttons-button" target="_self"><span class="wmd-label">Check out all my videos</span></a>
+</div>
+</div><style type="text/css">
+            #wmd-buttons-6275e8ed84a5a {
+                text-align: center;
+            }
+            #wmd-buttons-6275e8ed84a5a .wmd-buttons-button {
+                -moz-border-radius:4px;
+                -webkit-border-radius:4px;
+                border-radius:4px;
+                color: #ffffff;
+                padding:  6px 16px;
+                font-size: 14px;
+                font-weight: normal;
+                -moz-box-shadow:inset 0px 1px 0px 0px #5ec5ff;
+                -webkit-box-shadow:inset 0px 1px 0px 0px #5ec5ff;
+                box-shadow:inset 0px 1px 0px 0px #5ec5ff;
+                background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #389fdb), color-stop(1, #1279b5));
+                background:-moz-linear-gradient(top, #389fdb 5%, #1279b5 100%);
+                background:-webkit-linear-gradient(top, #389fdb 5%, #1279b5 100%);
+                background:-o-linear-gradient(top, #389fdb 5%, #1279b5 100%);
+                background:-ms-linear-gradient(top, #389fdb 5%, #1279b5 100%);
+                background:linear-gradient(to bottom, #389fdb 5%, #1279b5 100%);
+                filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#389fdb", endColorstr="#1279b5",GradientType=0);
+                background-color:#389fdb;
+                border:1px solid #004682;
+                
+            }
+            
+            </style>
+</div></div>  </div>
+<div class="et_pb_extra_column even column-4">
+<div id="text-2" class="et_pb_widget widget_text"><h4 class="widgettitle"> </h4> <div class="textwidget"><p><script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=ZpMW8sugKiKHRsUJhN2c2Yies6_bWid5Vtq3qdG_toM"></script></p>
+</div>
+</div>  </div>
+</div>
+</div>
+<div id="footer-bottom">
+<div class="container">
+
+<p id="footer-info">Designed by <a href="http://www.elegantthemes.com" title="Premium WordPress Themes">Elegant Themes</a> | Powered by <a href="http://www.wordpress.org">WordPress</a></p>
+
+<div id="footer-nav">
+<ul class="et-extra-social-icons" style="">
+<li class="et-extra-social-icon facebook">
+<a href="https://www.facebook.com/LarryFerlazzoEducator/" class="et-extra-icon et-extra-icon-background-none et-extra-icon-facebook"></a>
+</li>
+<li class="et-extra-social-icon twitter">
+<a href="https://twitter.com/Larryferlazzo" class="et-extra-icon et-extra-icon-background-none et-extra-icon-twitter"></a>
+</li>
+<li class="et-extra-social-icon instagram">
+<a href="https://www.instagram.com/mrferlazzo/" class="et-extra-icon et-extra-icon-background-none et-extra-icon-instagram"></a>
+</li>
+<li class="et-extra-social-icon youtube">
+<a href="https://www.youtube.com/channel/UCgUSf0hD2BQx2pzd-4EGZHQ" class="et-extra-icon et-extra-icon-background-none et-extra-icon-youtube"></a>
+</li>
+</ul>
+</div> 
+</div>
+</div>
+</footer>
+</div> 
+<script type="text/javascript">_page_loaded = 1;</script><style type="text/css">
+        .wmd-buttons-button,
+        .wmd-buttons-content {
+            display: inline-block;
+        }
+        .wmd-buttons-button {
+            text-decoration:none !important;
+            cursor:pointer;
+            position: relative;
+            text-decoration: none;
+            letter-spacing:1px;
+            margin:5px;
+        }
+        .wmd-buttons-button:hover {
+            opacity:0.8;
+            -moz-opacity: 0.8;
+            -khtml-opacity: 0.8;
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+            filter: alpha(opacity=80);
+        }        
+        </style><link rel='stylesheet' id='quick-login-css' href='https://larryferlazzo.edublogs.org/wp-content/plugins/quick-login/assets/quick-login.css?ver=0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='sgf-google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Arvo%7CDancing+Script%7CDroid+Sans%7CGive+You+Glory%7CJosefin+Slab%7COld+Standard+TT%7COpen+Sans%7CQuattrocento%7CVollkorn&#038;ver=5.8.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-includes/js/admin-bar.min.js?ver=5.8.4' id='admin-bar-js'></script>
+<script type='text/javascript' id='et-builder-modules-global-functions-script-js-extra'>
+/* <![CDATA[ */
+var et_builder_utils_params = {"condition":{"diviTheme":false,"extraTheme":true},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-content/themes/Extra/includes/builder/frontend-builder/build/frontend-builder-global-functions.js?ver=4.9.6' id='et-builder-modules-global-functions-script-js'></script>
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-content/plugins/lean-captcha/js/howler.min.js?ver=2015102605' id='lean-captcha-howler-js'></script>
+<script type='text/javascript' id='lean-captcha-js-extra'>
+/* <![CDATA[ */
+var lean_captcha_object = {"ajax_url":"https:\/\/larryferlazzo.edublogs.org\/wp-content\/plugins\/lean-captcha\/lc_ep.php","key":"lc_eY5Y8kSNfmH6WIgbPnLRtg=="};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-content/plugins/lean-captcha/js/lean-captcha.js?ver=201709035' id='lean-captcha-js'></script>
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<script type='text/javascript' id='extra-scripts-js-extra'>
+/* <![CDATA[ */
+var EXTRA = {"images_uri":"https:\/\/larryferlazzo.edublogs.org\/wp-content\/themes\/Extra\/images\/","ajaxurl":"https:\/\/larryferlazzo.edublogs.org\/wp-admin\/admin-ajax.php","your_rating":"Your Rating:","item_in_cart_count":"%d Item in Cart","items_in_cart_count":"%d Items in Cart","item_count":"%d Item","items_count":"%d Items","rating_nonce":"4acc097733","timeline_nonce":"fb00de6526","blog_feed_nonce":"8d35b4563b","error":"There was a problem, please try again.","contact_error_name_required":"Name field cannot be empty.","contact_error_email_required":"Email field cannot be empty.","contact_error_email_invalid":"Please enter a valid email address.","is_ab_testing_active":"","is_cache_plugin_active":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-content/themes/Extra/scripts/scripts.js?ver=4.9.6' id='extra-scripts-js'></script>
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-includes/js/comment-reply.min.js?ver=5.8.4' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-content/themes/Extra/scripts/ext/jquery.raty.js?ver=4.9.6' id='raty-js'></script>
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-content/themes/Extra/includes/builder/scripts/ext/jquery.fitvids.js?ver=4.9.6' id='divi-fitvids-js'></script>
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-content/themes/Extra/includes/builder/scripts/ext/waypoints.min.js?ver=4.9.6' id='waypoints-js'></script>
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-content/themes/Extra/includes/builder/scripts/ext/jquery.magnific-popup.js?ver=4.9.6' id='magnific-popup-js'></script>
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-content/themes/Extra/includes/builder/scripts/ext/jquery.mobile.custom.min.js?ver=4.9.6' id='et-jquery-touch-mobile-js'></script>
+<script type='text/javascript' id='et-builder-modules-script-js-extra'>
+/* <![CDATA[ */
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/larryferlazzo.edublogs.org\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/larryferlazzo.edublogs.org\/wp-content\/themes\/Extra\/images","builder_images_uri":"https:\/\/larryferlazzo.edublogs.org\/wp-content\/themes\/Extra\/includes\/builder\/images","et_frontend_nonce":"61eed69938","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"e765816784","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"105650","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+var et_pb_sticky_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-content/themes/Extra/includes/builder/frontend-builder/build/frontend-builder-scripts.js?ver=4.9.6' id='et-builder-modules-script-js'></script>
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-content/themes/Extra/core/admin/js/common.js?ver=4.9.6' id='et-core-common-js'></script>
+<script type='text/javascript' src='https://larryferlazzo.edublogs.org/wp-includes/js/wp-embed.min.js?ver=5.8.4' id='wp-embed-js'></script>
+</body>
+</html>
